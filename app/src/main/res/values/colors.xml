@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_color" type="color">#00BCD4</item>
+    <item name="btn_text_color" type="color">#FFFFFF</item>
+    <item name="background_color" type="color">#EEEEEE</item>
+</resources>
